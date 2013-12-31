@@ -1,0 +1,14 @@
+---
+layout: post
+title: "CCDC"
+date: 2013-10-25 22:00:00
+categories: school life
+---
+
+Being involved with CCDC (albeit in a limited way due to time restrictions) has really pushed me to improve my Linux sysadmin skills. Being a longtime Linux user has always been something that I’ve been proud of, but having been exposed to other longtime users I came to realise that my command line skills were lacking. So over the past few weeks I have put in a lot of effort in my spare time to really try to improve my repertoire of Linux commands. Over the course of reviewing I compiled a list of exceptionally handy commands that I think no *nix user should be without. I will publish a link to the Google Doc as soon as I can in the coming weeks. There are a few things that can really help someone get acquainted and comfortable with *nix. The biggest one I believe is starting from a bare bones installation, absolutely key is to throw yourself into Linux with no safety nets; it’s probably easier to set up in a virtual machine so that you don’t end up with a brick (should you mess anything up). Another big thing that I found helped me a lot was setting up some different types of servers. I started with a simple apache2 web server and moved on to a bind9 DNS server (which proved interesting in itself to learn about). I feel that setting up these servers and making sure that they worked really helped me to get a feel for how programs and services are stored and managed. I’m always learning and trying to make my skills better and I think that knowledge of Linux is one of those important things that every engineer should have, even if they don’t need to use it every day.
+
+Anyway, goodnight!
+
+[LINK][commands] to my list of useful commands.
+
+[commands]: https://docs.google.com/document/d/1ixf1NNwUzVHnuoB5rtmiG7NeqFSzcT0afIT6mOcKnDQ/edit
