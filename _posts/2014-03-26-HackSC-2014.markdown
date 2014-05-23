@@ -2,7 +2,7 @@
 layout: post
 title: "HackSC 2014"
 date: 2014-03-26 22:00:00
-categories: etcaetera software
+categories:
 ---
 
 <p>So HackSC was extremely fun. Following HackPoly I was so ready to participate in another Hackathon. I ended up meeting a whole new group of students from Cal Poly and we all carpooled out to Los Angeles together. We arrived way too early and spent a while at the USC cafeteria just hanging out and brainstorming ideas for our project. We eventually all agreed on the idea of making a legalese translator web app coupled with an Android app. Over the course of the two days we spent hacking it was so obvious that something was amiss with the planning of the event. Everything - including the food - was late or off-schedule and we were shuffled all over the campus to different classrooms. For me, this made writing code and staying concentrated more difficult to do. However we did end up getting some fairly long stretches of time to code, and I learned that the budget for the entire event had been slashed precipiotusly at the last minute. Bearing this in mind, I was pretty proud that we ended up producing a web app and an Android app that were able to communicate well. I'd say that the biggest problem I had with our project was the backend of the web app, wich was admittedly my job to take care of.</p> 
