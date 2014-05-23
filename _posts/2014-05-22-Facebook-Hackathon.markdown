@@ -2,7 +2,7 @@
 layout: post
 title: "Facebook Hackathon"
 date: 2014-05-22 22:00:00
-categories: Hackathon
+categories:
 ---
 
 So as usual, life is pretty crazy. It's taken me a really long time to get around to writing about my Facebook Hackathon experience. In between that event and now so many things have happened that I couldn't possibly find time to write about them all. 
