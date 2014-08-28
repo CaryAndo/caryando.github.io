@@ -1,0 +1,11 @@
+Login: cary                     Name: Cary<br />
+Directory: /home/cary                   Shell: /bin/bash<br />
+On since Wed Aug 27 18:56 (PDT) on tty7    2 hours idle<br />
+On since Wed Aug 27 19:09 (PDT) on pts/0 from :0<br />
+   1 hour 30 minutes idle<br />
+On since Wed Aug 27 19:19 (PDT) on pts/5 from :0<br />
+   3 minutes 41 seconds idle<br />
+On since Wed Aug 27 20:51 (PDT) on pts/2 from :0<br />
+   5 seconds idle<br />
+No mail.<br />
+No Plan.<br />

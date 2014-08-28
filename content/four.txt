@@ -1,0 +1,4 @@
+AndroidStudioProjects	Downloads		Music			Public			nltk_data<br />
+Applications		Environments		Pictures		Work<br/>
+Desktop			Library			Pirated			bin<br />
+Documents		Movies			Projects		eclipse<br />
