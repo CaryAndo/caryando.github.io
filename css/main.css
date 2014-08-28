@@ -18,7 +18,7 @@ p {
     background: rgba(0,0,0, 0);
     width:100vw;
     height:100vh;
-    overflow: hidden;
+    overflow: scroll;
     z-index: -300;
 }
 
@@ -113,7 +113,6 @@ h2 {
     border-width: 0px;
     border-radius: 20px;
     padding: 5px 5px;
-    overflow: scroll;
 }
 
 .abouttext {
