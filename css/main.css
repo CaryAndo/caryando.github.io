@@ -36,7 +36,9 @@ p {
     -moz-filter: blur(1px);
     -o-filter: blur(1px);
     -ms-filter: blur(1px);
-    filter: blur(1px);
+    filter: blur(4px);
+    filter: url(blur.svg#blur);
+    filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius='3');
     overflow: hidden;
     font-size: 10px;
 }
