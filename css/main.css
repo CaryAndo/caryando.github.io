@@ -1,11 +1,16 @@
 @import url("http://fonts.googleapis.com/css?family=Inconsolata:400,700");
 
 html {
-    font-family: "Andale mono", monospace, sans-serif;
+    /*font-family: "Andale mono", monospace, sans-serif;*/
+    font-family: 'Open Sans', sans-serif;
 }
 
 body {  
     overflow: hidden;
+}
+
+header {
+    font-size: 18px;
 }
 
 p {
@@ -105,8 +110,8 @@ h2 {
     width: 45%;
     margin: 0 auto;
     background: rgba(0,0,0,0);
-    line-height: 1.3em;
-    font-size: 13px;
+    line-height: 1.5em;
+    font-size: 14px;
     margin-top: 5vh;
     color: #56FF00;
     border-color: white;
